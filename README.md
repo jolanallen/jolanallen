@@ -1,14 +1,9 @@
-Bien sûr, Jolan ! Voici une version complète et mise à jour de ton README.md GitHub, intégrant toutes les informations que tu m'as fournies :
-
 <h1 align="center">💻 Salut, moi c’est Jolan Allen</h1>
 
 <p align="center">
   Étudiant en cybersécurité passionné, curieux de nature, je me passionne pour la sécurité des réseaux et des infrastructures, ainsi que pour l'exploitation low-level avec ce besoin permanent de comprendre en profondeur le fonctionnement des choses.
 </p>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=JolanAllen&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-</p>
 
 ---
 
