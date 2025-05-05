@@ -1,5 +1,3 @@
-Voici un README.md GitHub personnalisé complet basé sur tout ce que je sais de toi, Jolan Allen :
-
 <h1 align="center">💻 Salut, moi c’est Jolan Allen</h1>
 
 <p align="center">
