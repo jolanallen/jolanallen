@@ -24,15 +24,6 @@
 - **TryHackMe**
 - **PortSwigger Academy** — Parcours *Server-Side Vulnerabilities* en cours
 
----
-
-### 🧰 Stack & Outils
-
-- **Systèmes** : Linux (Kali, Debian), Windows, OPNsense
-- **Réseau** : VLANs, sous-réseaux, règles firewall, DMZ
-- **Virtualisation** : Proxmox, GNS3, Docker, QEMU, KVM
-- **Développement** : C/C++, Python, Bash
-- **Sécurité** : Suricata, ELK stack
 
 ---
 
@@ -81,15 +72,3 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JolanAllen" alt="Visitor Badge" />
 </p>
-
-
----
-
-📸 Photo de la bibliothèque
-
-Tu souhaites intégrer une photo de toi dans la bibliothèque. Pour cela, il te suffit d'ajouter l'image à ton dépôt GitHub (par exemple dans un dossierassets) et d'utiliser la syntaxe Markdown suivante pour l'afficher :
-
-<p align="center">
-  <img src="assets/ma_photo_bibliotheque.jpg" alt="Photo de Jolan Allen à la bibliothèque" width="300"/>
-</p>
-
