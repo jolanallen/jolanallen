@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/EnzoColantonio34">
+  <a href="https://github.com/jolanallen">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=jolanallen&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
 </p>
