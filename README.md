@@ -24,22 +24,6 @@
 - **TryHackMe**
 - **PortSwigger Academy** — Parcours *Server-Side Vulnerabilities* en cours
 
-
----
-
-### 🧱 Home Lab
-
-> Projet personnel d’infrastructure réaliste pour Red Teaming, Blue Teaming et DevOps
-
-- **Pare-feu** : OPNsense
-- **Détection d'intrusion** : Suricata
-- **Virtualisation** : Proxmox, QEMU, KVM
-- **Conteneurisation** : Docker
-- **Analyse de logs** : ELK stack
-- **Simulation de réseau** : GNS3
-
----
-
 ### 🏆 Certifications
 
 - ✅ **Introduction to Cybersecurity** (Cisco Networking Academy) - Terminé
