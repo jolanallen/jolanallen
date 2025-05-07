@@ -9,7 +9,7 @@
 
 ### 🔍 À propos de moi
 
-- 🎓 Étudiant en 1ère année en cybersécurité
+- 🎓 Étudiant en cybersécurité
 - 🔐 En cours de certification **C3SA** (CyberWarLabs)
 - 🧠 Passionné par les techniques offensives furtives (injection mémoire, attaque SSH, etc.)
 - 🧰 Bricoleur d’environnements réalistes : Proxmox, OPNsense, GNS3, Cisco, honeypots
