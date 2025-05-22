@@ -27,6 +27,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JolanAllen&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolanAllen&layout=compact&theme=radical" alt="Top Langs" />
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=JolanAllen&hide_progress=true alt="top lang"/>
+  
 </p>
 
 ---
