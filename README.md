@@ -4,7 +4,7 @@
   Étudiant en cybersécurité passionné, curieux de nature, je me passionne pour la sécurité des réseaux et des infrastructures, ainsi que pour l'exploitation low-level avec ce besoin permanent de comprendre en profondeur le fonctionnement des choses.
 </p>
 
-
+<a>https://jolanallen.github.io</a>
 ---
 
 ### 🔍 À propos de moi
@@ -29,8 +29,6 @@
 - ✅ **Introduction to Cybersecurity** (Cisco Networking Academy) - Terminé
 - 🔄 **Parcours d'analyste junior en cybersécurité** (Cisco Networking Academy) - En cours
 - 🔄 **C3SA** (CyberWarLabs) - En cours
-- 🎯 **CPTS** (Hack The Box) - Objectif avant la fin de mes études
-
 ---
 
 ### 📈 GitHub Stats
@@ -45,7 +43,7 @@
 ### 📫 Me contacter
 
 <p align="center">
-  <a href="mailto:jolan.allen@example.com">
+  <a href="mailto:jolan.allen.pro@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/JolanAllen">
