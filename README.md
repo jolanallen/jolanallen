@@ -11,7 +11,6 @@
 
 - 🎓 Étudiant en cybersécurité
 - 🔐 En cours de certification **C3SA** (CyberWarLabs)
-- 🧰 Bricoleur d’environnements HomeLab : Proxmox, OPNsense, GNS3, Cisco, Pfsense, Linx, Docker...
 - ⚙️ Profondément curieux et avide d'apprendre toujours plus
 ---
 
