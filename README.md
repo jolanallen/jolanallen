@@ -1,25 +1,14 @@
 <h1 align="center">💻 Salut, moi c’est Jolan Allen</h1>
 
-<p align="center">
-  Étudiant en cybersécurité,passionné, curieux de nature, je me passionne pour la sécurité des réseaux et des infrastructures, ainsi que pour l'exploitation low-level avec ce besoin permanent de comprendre en profondeur le fonctionnement des choses.
-</p>
 
 
----
+## 📊 GitHub Stats <br>
+![](https://github-readme-stats.vercel.app/api?username=jolanallen&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jolanallen&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jolanallen&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=jolanallen&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🔍 À propos de moi
 
-- 🎓 Étudiant en cybersécurité
-- 🔐 En cours de certification **C3SA** (CyberWarLabs)
-- ⚙️ Profondément curieux et avide d'apprendre toujours plus
----
-
-### 🏆 Certifications
-
-- ✅ **Introduction to Cybersecurity** (Cisco Networking Academy) - Terminé
-- 🔄 **Parcours d'analyste junior en cybersécurité** (Cisco Networking Academy) - En cours
-- 🔄 **C3SA** (CyberWarLabs) - En cours
----
 
 ### 📈 GitHub Stats
 
