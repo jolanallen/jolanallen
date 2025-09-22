@@ -15,7 +15,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23222222.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6C37?style=for-the-badge&logo=autodesk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
@@ -36,9 +36,6 @@
 ## 📫 Me Contacter
 
 <p align="center">
-  <a href="mailto:jolanallen34@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://discord.com/users/1280871895259938931">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
